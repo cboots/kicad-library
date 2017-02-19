@@ -28,6 +28,42 @@ K RF Tx Rx
 F http://www.ti.com/lit/ds/symlink/cc1200.pdf
 $ENDCMP
 #
+$CMP CC1310F128RGZR
+D Ultra-Low-Power Sub-1 GHz Wireless MCU (48-pin RGZ Package, 128kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc1310.pdf
+$ENDCMP
+#
+$CMP CC1310F128RGZT
+D Ultra-Low-Power Sub-1 GHz Wireless MCU (48-pin RGZ Package, 128kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc1310.pdf
+$ENDCMP
+#
+$CMP CC1310F32RGZR
+D Ultra-Low-Power Sub-1 GHz Wireless MCU (48-pin RGZ Package, 32kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc1310.pdf
+$ENDCMP
+#
+$CMP CC1310F32RGZT
+D Ultra-Low-Power Sub-1 GHz Wireless MCU (48-pin RGZ Package, 32kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc1310.pdf
+$ENDCMP
+#
+$CMP CC1310F64RGZR
+D Ultra-Low-Power Sub-1 GHz Wireless MCU (48-pin RGZ Package, 64kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc1310.pdf
+$ENDCMP
+#
+$CMP CC1310F64RGZT
+D Ultra-Low-Power Sub-1 GHz Wireless MCU (48-pin RGZ Package, 64kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc1310.pdf
+$ENDCMP
+#
 $CMP CC2520
 D 2.4 GHz ZigBee/IEEE 802.15.4 RF transceiver 
 K 2.4GHz rf transceiver ZigBee 802.15.4
