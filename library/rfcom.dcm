@@ -82,6 +82,12 @@ K ISM Wireless MCU
 F http://www.ti.com/lit/ds/symlink/cc2630.pdf
 $ENDCMP
 #
+$CMP CC2650F128RGZT
+D CC2650 SimpleLink™ Multistandard Wireless MCU (48-pin RGZ Package, 128kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc2650.pdf
+$ENDCMP
+#
 $CMP DCTR-52D
 D IQRF data controlled transceiver, FSK modulation
 K IQRF data controlled transceiver, FSK modulation
