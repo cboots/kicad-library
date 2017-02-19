@@ -70,6 +70,18 @@ K 2.4GHz rf transceiver ZigBee 802.15.4
 F http://www.ti.com/lit/gpn/cc2520
 $ENDCMP
 #
+$CMP CC2630F128RGZR
+D CC2630 SimpleLink™ 6LoWPAN, ZigBee® Wireless MCU (48-pin RGZ Package, 128kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc2630.pdf
+$ENDCMP
+#
+$CMP CC2630F128RGZT
+D CC2630 SimpleLink™ 6LoWPAN, ZigBee® Wireless MCU (48-pin RGZ Package, 128kB FLASH)
+K ISM Wireless MCU
+F http://www.ti.com/lit/ds/symlink/cc2630.pdf
+$ENDCMP
+#
 $CMP DCTR-52D
 D IQRF data controlled transceiver, FSK modulation
 K IQRF data controlled transceiver, FSK modulation
