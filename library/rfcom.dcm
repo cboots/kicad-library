@@ -22,6 +22,18 @@ K Low Power RF Transciever
 F www.ti.com/lit/ds/symlink/cc1000.pdf
 $ENDCMP
 #
+$CMP CC1190RGVR
+D 850 – 950 MHz RF Front End
+K RF ISM Amplifier
+F http://www.ti.com/lit/ds/symlink/cc1190.pdf
+$ENDCMP
+#
+$CMP CC1190RGVT
+D 850 – 950 MHz RF Front End
+K RF ISM Amplifier
+F http://www.ti.com/lit/ds/symlink/cc1190.pdf
+$ENDCMP
+#
 $CMP CC1200
 D Low-Power, High-Performance RF Transceiver
 K RF Tx Rx
@@ -68,6 +80,18 @@ $CMP CC2520
 D 2.4 GHz ZigBee/IEEE 802.15.4 RF transceiver 
 K 2.4GHz rf transceiver ZigBee 802.15.4
 F http://www.ti.com/lit/gpn/cc2520
+$ENDCMP
+#
+$CMP CC2592RGVR
+D CC2592 2.4-GHz Range Extender
+K RF ISM Amplifier
+F http://www.ti.com/lit/ds/swrs159/swrs159.pdf
+$ENDCMP
+#
+$CMP CC2592RGVT
+D CC2592 2.4-GHz Range Extender
+K RF ISM Amplifier
+F http://www.ti.com/lit/ds/swrs159/swrs159.pdf
 $ENDCMP
 #
 $CMP CC2630F128RGZR
