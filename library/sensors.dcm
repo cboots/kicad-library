@@ -366,6 +366,12 @@ K temperature sensor thermistor ntc
 F http://www.ti.com/lit/ds/symlink/lmt87-q1.pdf
 $ENDCMP
 #
+$CMP LPS25HB
+D MEMS pressure sensor: 260-1260 hPa absolute digital output barometer
+K Digital Barometer
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf
+$ENDCMP
+#
 $CMP LSM303D
 D I2C/SPI, 3D Accelerometer and 3D Magnetometer
 K Accelerometer Magnetometer MEMS
@@ -544,6 +550,12 @@ $CMP SHT1x
 D Temperature and humidity module
 K digital temperature humidity sensor
 F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/Humidity_Sensors/Sensirion_Humidity_Sensors_SHT1x_Datasheet_V5.pdf
+$ENDCMP
+#
+$CMP Si7006-A20-IM1
+D Temperature and humidity sensor
+K digital temperature humidity sensor
+F http://www.silabs.com/documents/public/data-sheets/Si7006-A20.pdf
 $ENDCMP
 #
 $CMP TLV493D
