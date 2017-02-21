@@ -921,8 +921,8 @@ ENDDEF
 DEF LPS25HB U 0 40 Y Y 1 F N
 F0 "U" 150 -550 50 H V L CNN
 F1 "LPS25HB" 100 550 50 H V L CNN
-F2 "" -100 0 50 H I C CIN
-F3 "" -100 0 50 H I C CNN
+F2 "Housings_LGA:HLGA-10L_2.5x2.5mm_Pitch0.6mm" 0 1000 50 H I C CIN
+F3 "http://www.st.com/resource/en/datasheet/lps25hb.pdf" 0 1100 50 H I C CNN
 $FPLIST
  HLGA-10L
 $ENDFPLIST
@@ -1347,8 +1347,8 @@ ENDDEF
 DEF MPU-9250 U 0 40 Y Y 1 F N
 F0 "U" -450 750 50 H V C CNN
 F1 "MPU-9250" 300 -750 50 H V C CNN
-F2 "" 0 -1000 50 H I C CNN
-F3 "" 0 -150 50 H I C CNN
+F2 "Housings_DFN_QFN:QFN-24-1EP_3x3mm_Pitch0.4mm" 0 -1000 50 H I C CNN
+F3 "https://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf" 0 1300 50 H I C CNN
 $FPLIST
  QFN-24*3x3mm_Pitch0.4mm*
 $ENDFPLIST

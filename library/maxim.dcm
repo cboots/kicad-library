@@ -144,6 +144,18 @@ K 10-Bit ADC Serial 4-Channel Maxim
 F https://datasheets.maximintegrated.com/en/ds/MAX1248-MAX1249.pdf
 $ENDCMP
 #
+$CMP MAX17242
+D 3.5V–36V, 2A, Synchronous Buck Converter with 15µA Quiescent Current and Reduced EMI
+K power supply buck converter regulator
+F http://datasheets.maximintegrated.com/en/ds/MAX17242-MAX17243.pdf
+$ENDCMP
+#
+$CMP MAX17243
+D 3.5V–36V, 3A, Synchronous Buck Converter with 15µA Quiescent Current and Reduced EMI
+K power supply buck converter regulator
+F http://datasheets.maximintegrated.com/en/ds/MAX17242-MAX17243.pdf
+$ENDCMP
+#
 $CMP MAX31820
 D 1-Wire Ambient Temperature Sensor
 K OneWire 1-Wire 1Wire Maxim Dallas
