@@ -181,12 +181,6 @@ F http://www.atmel.com/Images/doc0841.pdf
 $ENDCMP
 #
 $CMP AT90S4414-4JC
-D PLCC44, 4k Flash, 256B SRAM, 256B EEPROM
-K AVR 8bit Microcontroller ClassicAVR
-F http://www.atmel.com/Images/doc0841.pdf
-$ENDCMP
-#
-$CMP AT90S4414-4PC
 D PDIP28 Narrow, 4k Flash, 128B SRAM, 256B EEPROM
 K AVR 8bit Microcontroller ClassicAVR
 F http://www.atmel.com/Images/doc1042.pdf
@@ -217,12 +211,6 @@ F http://www.atmel.com/Images/doc0841.pdf
 $ENDCMP
 #
 $CMP AT90S8515-4JC
-D PLCC44, 8k Flash, 512B SRAM, 512B EEPROM
-K AVR 8bit Microcontroller ClassicAVR
-F http://www.atmel.com/Images/doc0841.pdf
-$ENDCMP
-#
-$CMP AT90S8515-4PC
 D PDIP40, 8k Flash, 512B SRAM, 512B EEPROM
 K AVR 8bit Microcontroller ClassicAVR
 F http://www.atmel.com/Images/doc0841.pdf
@@ -1383,7 +1371,7 @@ $ENDCMP
 $CMP ATSAME70Q21A-AN
 D High-performance ARM Cortex-M7 core-based MCUs running up to 300 MHz with up to 2MByte Flash and 384kB SRAM.
 K ARM 32bit Microcontroller 300MHz CortexM7
-F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
+F http://www.atmel.com/Images/Atmel-11296-32-bit-Cortex-M7-Microcontroller-SAM-E70Q-SAM-E70N-SAM-E70J_Datasheet.pdf
 $ENDCMP
 #
 $CMP ATTINY10-P

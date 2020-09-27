@@ -132,6 +132,12 @@ K realtime clock RTC
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf
 $ENDCMP
 #
+$CMP MIC94082YFT
+D 2A High Side Load Switch
+K switch power FET inrush
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic94080_5.pdf
+$ENDCMP
+#
 $CMP USB3300
 D Hi-Speed USB Host, Device or OTG PHY with ULPI Interface
 K USB OTG Hi-Speed PHY ULPI Interface

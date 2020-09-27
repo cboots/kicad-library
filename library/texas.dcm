@@ -132,6 +132,18 @@ K Buck Boost step-up step-down
 F http://www.ti.com/lit/ds/symlink/lm5175.pdf
 $ENDCMP
 #
+$CMP LP5521YQ
+D Three-Channel RGB, White-LED Driver With Internal Program Memory and Integrated Charge Pump
+K LED driver charge pump
+F http://www.ti.com/lit/ds/symlink/lp5521.pdf
+$ENDCMP
+#
+$CMP LP55231SQE/NOPB
+D 9-Channel RGB, White-LED Driver With Internal Program Memory and Integrated Charge Pump
+K LED driver charge pump
+F http://www.ti.com/lit/ds/symlink/lp55231.pdf
+$ENDCMP
+#
 $CMP TCA9555PWR
 D 16-bit I/O expander, I2C and SMBus interface, interrupts, TSSOP-24 package
 K ti parallel port
@@ -286,6 +298,12 @@ $CMP TPS2561
 D Dual channel precision adjustable current-limited power switches
 K power switche current limited usb port
 F http://www.ti.com/lit/ds/symlink/tps2561.pdf
+$ENDCMP
+#
+$CMP TPS54232
+D 2-A, 28-V, 1-MHz, Step-Down DC-DC Converter With Eco-Mode
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps54232.pdf
 $ENDCMP
 #
 $CMP TPS562200

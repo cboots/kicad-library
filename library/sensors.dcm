@@ -372,6 +372,12 @@ K Digital Barometer
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf
 $ENDCMP
 #
+$CMP LSM303AH
+D I2C/SPI, 3D Accelerometer and 3D Magnetometer
+K Accelerometer Magnetometer MEMS
+F https://www.st.com/resource/en/datasheet/lsm303ah.pdf
+$ENDCMP
+#
 $CMP LSM303D
 D I2C/SPI, 3D Accelerometer and 3D Magnetometer
 K Accelerometer Magnetometer MEMS
@@ -382,6 +388,12 @@ $CMP LSM303DLHC
 D I2C, 3D Accelerometer and 3D Magnetometer
 K Accelerometer Magnetometer MEMS
 F http://www.st.com/web/en/resource/technical/document/datasheet/DM00027543.pdf
+$ENDCMP
+#
+$CMP LSM6DS33
+D iNEMO accel/gyro
+K I2C SPI IMU accelerometer gyroscope
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ed/aa/b8/e5/ab/3a/41/df/DM00157718.pdf/files/DM00157718.pdf/jcr:content/translations/en.DM00157718.pdf
 $ENDCMP
 #
 $CMP LSM9DS1
